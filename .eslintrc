@@ -1,0 +1,10 @@
+{
+  "extends": ["standard", "plugin:vue/vue3-recommended"],
+
+   "rules": {
+    "no-new": 0
+    },
+
+    "plugins": ["html", "vue"]
+
+}
